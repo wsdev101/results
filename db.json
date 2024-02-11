@@ -29,3 +29,1297 @@
         "name": "typicode"
     }
 }
+{
+    "currentDateTime": "2024-02-11 12:31:56 PM",
+    "companyName": "Racing Dog",
+    "nextRace": {
+        "raceId": 4021,
+        "raceNumber": 979,
+        "time": "12:35 PM",
+        "remainTime": 300
+    },
+    "cuotas": [
+        {
+            "id": 1,
+            "type": "winner",
+            "cuota_id": 1,
+            "runner": 1,
+            "cuota": "1.90"
+        },
+        {
+            "id": 2,
+            "type": "winner",
+            "cuota_id": 1,
+            "runner": 2,
+            "cuota": "4.60"
+        },
+        {
+            "id": 3,
+            "type": "winner",
+            "cuota_id": 1,
+            "runner": 3,
+            "cuota": "145.00"
+        },
+        {
+            "id": 4,
+            "type": "winner",
+            "cuota_id": 1,
+            "runner": 4,
+            "cuota": "45.00"
+        },
+        {
+            "id": 5,
+            "type": "winner",
+            "cuota_id": 1,
+            "runner": 5,
+            "cuota": "1.60"
+        },
+        {
+            "id": 6,
+            "type": "winner",
+            "cuota_id": 1,
+            "runner": 6,
+            "cuota": "3.50"
+        },
+        {
+            "id": 7,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 12,
+            "cuota": "4.50"
+        },
+        {
+            "id": 8,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 13,
+            "cuota": "8.00"
+        },
+        {
+            "id": 9,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 14,
+            "cuota": "9.00"
+        },
+        {
+            "id": 10,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 15,
+            "cuota": "12.00"
+        },
+        {
+            "id": 11,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 16,
+            "cuota": "13.00"
+        },
+        {
+            "id": 12,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 21,
+            "cuota": "14.00"
+        },
+        {
+            "id": 13,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 23,
+            "cuota": "4.60"
+        },
+        {
+            "id": 14,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 24,
+            "cuota": "145.00"
+        },
+        {
+            "id": 15,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 25,
+            "cuota": "45.00"
+        },
+        {
+            "id": 16,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 26,
+            "cuota": "1.60"
+        },
+        {
+            "id": 17,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 31,
+            "cuota": "3.50"
+        },
+        {
+            "id": 18,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 32,
+            "cuota": "4.50"
+        },
+        {
+            "id": 19,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 34,
+            "cuota": "4.50"
+        },
+        {
+            "id": 20,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 35,
+            "cuota": "4.50"
+        },
+        {
+            "id": 21,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 36,
+            "cuota": "4.50"
+        },
+        {
+            "id": 22,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 41,
+            "cuota": "4.50"
+        },
+        {
+            "id": 23,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 42,
+            "cuota": "4.50"
+        },
+        {
+            "id": 24,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 43,
+            "cuota": "4.50"
+        },
+        {
+            "id": 25,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 45,
+            "cuota": "4.50"
+        },
+        {
+            "id": 26,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 46,
+            "cuota": "4.50"
+        },
+        {
+            "id": 27,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 51,
+            "cuota": "4.50"
+        },
+        {
+            "id": 28,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 52,
+            "cuota": "4.50"
+        },
+        {
+            "id": 29,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 53,
+            "cuota": "4.50"
+        },
+        {
+            "id": 30,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 54,
+            "cuota": "4.50"
+        },
+        {
+            "id": 31,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 56,
+            "cuota": "4.50"
+        },
+        {
+            "id": 32,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 61,
+            "cuota": "4.50"
+        },
+        {
+            "id": 33,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 62,
+            "cuota": "4.50"
+        },
+        {
+            "id": 34,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 63,
+            "cuota": "4.50"
+        },
+        {
+            "id": 35,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 64,
+            "cuota": "4.50"
+        },
+        {
+            "id": 36,
+            "type": "exacta",
+            "cuota_id": 1,
+            "runner": 65,
+            "cuota": "4.50"
+        },
+        {
+            "id": 37,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 123,
+            "cuota": "118.48"
+        },
+        {
+            "id": 38,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 124,
+            "cuota": "117.94"
+        },
+        {
+            "id": 39,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 125,
+            "cuota": "141.47"
+        },
+        {
+            "id": 40,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 126,
+            "cuota": "127.91"
+        },
+        {
+            "id": 41,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 654,
+            "cuota": "113.42"
+        },
+        {
+            "id": 42,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 132,
+            "cuota": "139.71"
+        },
+        {
+            "id": 43,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 134,
+            "cuota": "132.23"
+        },
+        {
+            "id": 44,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 135,
+            "cuota": "133.46"
+        },
+        {
+            "id": 45,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 136,
+            "cuota": "128.06"
+        },
+        {
+            "id": 46,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 142,
+            "cuota": "129.94"
+        },
+        {
+            "id": 47,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 143,
+            "cuota": "112.85"
+        },
+        {
+            "id": 48,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 145,
+            "cuota": "137.54"
+        },
+        {
+            "id": 49,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 154,
+            "cuota": "136.21"
+        },
+        {
+            "id": 50,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 146,
+            "cuota": "135.76"
+        },
+        {
+            "id": 51,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 152,
+            "cuota": "140.98"
+        },
+        {
+            "id": 52,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 153,
+            "cuota": "135.49"
+        },
+        {
+            "id": 53,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 156,
+            "cuota": "120.34"
+        },
+        {
+            "id": 54,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 162,
+            "cuota": "115.97"
+        },
+        {
+            "id": 55,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 163,
+            "cuota": "141.47"
+        },
+        {
+            "id": 56,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 164,
+            "cuota": "123.93"
+        },
+        {
+            "id": 57,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 165,
+            "cuota": "112.06"
+        },
+        {
+            "id": 58,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 213,
+            "cuota": "147.93"
+        },
+        {
+            "id": 59,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 214,
+            "cuota": "129.29"
+        },
+        {
+            "id": 60,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 215,
+            "cuota": "132.72"
+        },
+        {
+            "id": 61,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 216,
+            "cuota": "131.12"
+        },
+        {
+            "id": 62,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 231,
+            "cuota": "129.99"
+        },
+        {
+            "id": 63,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 234,
+            "cuota": "132.08"
+        },
+        {
+            "id": 64,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 235,
+            "cuota": "119.38"
+        },
+        {
+            "id": 65,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 236,
+            "cuota": "124.50"
+        },
+        {
+            "id": 66,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 241,
+            "cuota": "125.05"
+        },
+        {
+            "id": 67,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 243,
+            "cuota": "123.60"
+        },
+        {
+            "id": 68,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 245,
+            "cuota": "110.70"
+        },
+        {
+            "id": 69,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 246,
+            "cuota": "138.93"
+        },
+        {
+            "id": 70,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 251,
+            "cuota": "143.70"
+        },
+        {
+            "id": 71,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 253,
+            "cuota": "128.92"
+        },
+        {
+            "id": 72,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 254,
+            "cuota": "125.64"
+        },
+        {
+            "id": 73,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 256,
+            "cuota": "140.30"
+        },
+        {
+            "id": 74,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 261,
+            "cuota": "132.09"
+        },
+        {
+            "id": 75,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 263,
+            "cuota": "127.28"
+        },
+        {
+            "id": 76,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 264,
+            "cuota": "126.68"
+        },
+        {
+            "id": 77,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 265,
+            "cuota": "124.62"
+        },
+        {
+            "id": 78,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 312,
+            "cuota": "130.47"
+        },
+        {
+            "id": 79,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 314,
+            "cuota": "127.23"
+        },
+        {
+            "id": 80,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 315,
+            "cuota": "130.77"
+        },
+        {
+            "id": 81,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 316,
+            "cuota": "143.11"
+        },
+        {
+            "id": 82,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 321,
+            "cuota": "123.32"
+        },
+        {
+            "id": 83,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 324,
+            "cuota": "115.74"
+        },
+        {
+            "id": 84,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 325,
+            "cuota": "128.94"
+        },
+        {
+            "id": 85,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 326,
+            "cuota": "128.22"
+        },
+        {
+            "id": 86,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 341,
+            "cuota": "145.61"
+        },
+        {
+            "id": 87,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 342,
+            "cuota": "115.25"
+        },
+        {
+            "id": 88,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 345,
+            "cuota": "137.28"
+        },
+        {
+            "id": 89,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 346,
+            "cuota": "116.23"
+        },
+        {
+            "id": 90,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 351,
+            "cuota": "138.74"
+        },
+        {
+            "id": 91,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 352,
+            "cuota": "145.55"
+        },
+        {
+            "id": 92,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 354,
+            "cuota": "125.44"
+        },
+        {
+            "id": 93,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 356,
+            "cuota": "110.54"
+        },
+        {
+            "id": 94,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 361,
+            "cuota": "126.99"
+        },
+        {
+            "id": 95,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 362,
+            "cuota": "127.87"
+        },
+        {
+            "id": 96,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 364,
+            "cuota": "120.53"
+        },
+        {
+            "id": 97,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 365,
+            "cuota": "116.24"
+        },
+        {
+            "id": 98,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 412,
+            "cuota": "137.38"
+        },
+        {
+            "id": 99,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 413,
+            "cuota": "143.26"
+        },
+        {
+            "id": 100,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 415,
+            "cuota": "137.77"
+        },
+        {
+            "id": 101,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 416,
+            "cuota": "114.89"
+        },
+        {
+            "id": 102,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 421,
+            "cuota": "138.92"
+        },
+        {
+            "id": 103,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 423,
+            "cuota": "142.42"
+        },
+        {
+            "id": 104,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 425,
+            "cuota": "124.52"
+        },
+        {
+            "id": 105,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 426,
+            "cuota": "142.47"
+        },
+        {
+            "id": 106,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 431,
+            "cuota": "111.51"
+        },
+        {
+            "id": 107,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 432,
+            "cuota": "148.28"
+        },
+        {
+            "id": 108,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 435,
+            "cuota": "132.23"
+        },
+        {
+            "id": 109,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 436,
+            "cuota": "138.42"
+        },
+        {
+            "id": 110,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 451,
+            "cuota": "122.99"
+        },
+        {
+            "id": 111,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 452,
+            "cuota": "144.78"
+        },
+        {
+            "id": 112,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 453,
+            "cuota": "137.37"
+        },
+        {
+            "id": 113,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 456,
+            "cuota": "132.82"
+        },
+        {
+            "id": 114,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 461,
+            "cuota": "143.23"
+        },
+        {
+            "id": 115,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 462,
+            "cuota": "134.55"
+        },
+        {
+            "id": 116,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 463,
+            "cuota": "112.80"
+        },
+        {
+            "id": 117,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 465,
+            "cuota": "111.91"
+        },
+        {
+            "id": 118,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 512,
+            "cuota": "138.87"
+        },
+        {
+            "id": 119,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 513,
+            "cuota": "147.57"
+        },
+        {
+            "id": 120,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 514,
+            "cuota": "114.75"
+        },
+        {
+            "id": 121,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 516,
+            "cuota": "134.56"
+        },
+        {
+            "id": 122,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 521,
+            "cuota": "142.47"
+        },
+        {
+            "id": 123,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 523,
+            "cuota": "143.40"
+        },
+        {
+            "id": 124,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 524,
+            "cuota": "137.88"
+        },
+        {
+            "id": 125,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 526,
+            "cuota": "130.26"
+        },
+        {
+            "id": 126,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 531,
+            "cuota": "129.87"
+        },
+        {
+            "id": 127,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 532,
+            "cuota": "111.77"
+        },
+        {
+            "id": 128,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 534,
+            "cuota": "129.81"
+        },
+        {
+            "id": 129,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 536,
+            "cuota": "128.34"
+        },
+        {
+            "id": 130,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 541,
+            "cuota": "127.89"
+        },
+        {
+            "id": 131,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 542,
+            "cuota": "131.18"
+        },
+        {
+            "id": 132,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 543,
+            "cuota": "118.77"
+        },
+        {
+            "id": 133,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 546,
+            "cuota": "133.40"
+        },
+        {
+            "id": 134,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 561,
+            "cuota": "112.40"
+        },
+        {
+            "id": 135,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 562,
+            "cuota": "137.46"
+        },
+        {
+            "id": 136,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 563,
+            "cuota": "148.39"
+        },
+        {
+            "id": 137,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 564,
+            "cuota": "145.89"
+        },
+        {
+            "id": 138,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 612,
+            "cuota": "143.60"
+        },
+        {
+            "id": 139,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 613,
+            "cuota": "120.83"
+        },
+        {
+            "id": 140,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 614,
+            "cuota": "119.45"
+        },
+        {
+            "id": 141,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 615,
+            "cuota": "129.66"
+        },
+        {
+            "id": 142,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 621,
+            "cuota": "111.05"
+        },
+        {
+            "id": 143,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 623,
+            "cuota": "137.16"
+        },
+        {
+            "id": 144,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 624,
+            "cuota": "145.94"
+        },
+        {
+            "id": 145,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 625,
+            "cuota": "143.63"
+        },
+        {
+            "id": 146,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 631,
+            "cuota": "113.80"
+        },
+        {
+            "id": 147,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 632,
+            "cuota": "128.88"
+        },
+        {
+            "id": 148,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 634,
+            "cuota": "114.66"
+        },
+        {
+            "id": 149,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 635,
+            "cuota": "120.01"
+        },
+        {
+            "id": 150,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 641,
+            "cuota": "146.03"
+        },
+        {
+            "id": 151,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 642,
+            "cuota": "139.53"
+        },
+        {
+            "id": 152,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 643,
+            "cuota": "145.91"
+        },
+        {
+            "id": 153,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 645,
+            "cuota": "117.37"
+        },
+        {
+            "id": 154,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 651,
+            "cuota": "144.05"
+        },
+        {
+            "id": 155,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 652,
+            "cuota": "136.31"
+        },
+        {
+            "id": 156,
+            "type": "trifecta",
+            "cuota_id": 1,
+            "runner": 653,
+            "cuota": "116.45"
+        },
+        {
+            "id": 157,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 12,
+            "cuota": "4.20"
+        },
+        {
+            "id": 158,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 13,
+            "cuota": "4.50"
+        },
+        {
+            "id": 159,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 14,
+            "cuota": "4.60"
+        },
+        {
+            "id": 160,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 15,
+            "cuota": "5.00"
+        },
+        {
+            "id": 161,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 16,
+            "cuota": "5.20"
+        },
+        {
+            "id": 162,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 23,
+            "cuota": "5.10"
+        },
+        {
+            "id": 163,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 24,
+            "cuota": "5.20"
+        },
+        {
+            "id": 164,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 25,
+            "cuota": "5.30"
+        },
+        {
+            "id": 165,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 26,
+            "cuota": "5.40"
+        },
+        {
+            "id": 166,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 34,
+            "cuota": "5.50"
+        },
+		{
+            "id": 213,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 35,
+            "cuota": "5.50"
+        },
+        {
+            "id": 167,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 36,
+            "cuota": "5.60"
+        },
+        {
+            "id": 168,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 45,
+            "cuota": "5.70"
+        },
+        {
+            "id": 169,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 46,
+            "cuota": "5.80"
+        },
+        {
+            "id": 170,
+            "type": "box_quiniela",
+            "cuota_id": 1,
+            "runner": 56,
+            "cuota": "5.90"
+        },
+        {
+            "id": 171,
+            "type": "placed",
+            "cuota_id": 1,
+            "runner": 1,
+            "cuota": "2.50"
+        },
+        {
+            "id": 172,
+            "type": "placed",
+            "cuota_id": 1,
+            "runner": 2,
+            "cuota": "2.70"
+        },
+        {
+            "id": 173,
+            "type": "placed",
+            "cuota_id": 1,
+            "runner": 3,
+            "cuota": "3.00"
+        },
+        {
+            "id": 174,
+            "type": "placed",
+            "cuota_id": 1,
+            "runner": 4,
+            "cuota": "2.80"
+        },
+        {
+            "id": 175,
+            "type": "placed",
+            "cuota_id": 1,
+            "runner": 5,
+            "cuota": "3.00"
+        },
+        {
+            "id": 176,
+            "type": "placed",
+            "cuota_id": 1,
+            "runner": 6,
+            "cuota": "4.00"
+        },
+        {
+            "id": 177,
+            "type": "show",
+            "cuota_id": 1,
+            "runner": 1,
+            "cuota": "1.50"
+        },
+        {
+            "id": 178,
+            "type": "show",
+            "cuota_id": 1,
+            "runner": 2,
+            "cuota": "1.20"
+        },
+        {
+            "id": 179,
+            "type": "show",
+            "cuota_id": 1,
+            "runner": 3,
+            "cuota": "1.10"
+        },
+        {
+            "id": 180,
+            "type": "show",
+            "cuota_id": 1,
+            "runner": 4,
+            "cuota": "1.60"
+        },
+        {
+            "id": 181,
+            "type": "show",
+            "cuota_id": 1,
+            "runner": 5,
+            "cuota": "1.70"
+        },
+        {
+            "id": 182,
+            "type": "show",
+            "cuota_id": 1,
+            "runner": 6,
+            "cuota": "2.00"
+        }
+        
+    ]
+}
