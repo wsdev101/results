@@ -1289,6 +1289,34 @@
             "cuota_id": 1,
             "runner": 6,
             "cuota": "2.00"
+        },
+        {
+            "id": 214,
+            "type": "even",
+            "cuota_id": 1,
+            "runner": 246,
+            "cuota": "2.00"
+        },
+        {
+            "id": 215,
+            "type": "odd",
+            "cuota_id": 1,
+            "runner": 135,
+            "cuota": "2.00"
+        },
+        {
+            "id": 216,
+            "type": "high",
+            "cuota_id": 1,
+            "runner": 456,
+            "cuota": "2.00"
+        },
+        {
+            "id": 217,
+            "type": "low",
+            "cuota_id": 1,
+            "runner": 123,
+            "cuota": "2.00"
         }
         
     ]
